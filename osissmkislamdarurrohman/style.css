@@ -1,0 +1,84 @@
+* {
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+}
+body center h2 {
+    color: white;
+   font-family: 'comic sans mas';
+   font-size: 40px;
+    margin-bottom: 30px;
+    line-height: 30px;
+}
+p1{
+    font-family: 'comic sans mas';
+    font-style: 100px;
+    font-size:40px;
+    margin-bottom: 30px;
+    color: white;
+    line-height:30px;}
+    }
+body div{
+    color: white;
+    margin: 0px;
+    padding: 30;
+    font-size:15px;
+}
+body {
+    color: orange;
+    margin: 40px;
+    padding: 10px;
+    font-size:40px;
+}
+marquee{
+    color:yellowgreen;
+    margin: 0px;
+    padding:0px;
+    font-size: 50px;
+}
+h1{
+    font-family: 'comic sans mas';
+    font-style: 100;
+    font-size: 30px;
+    margin-bottom: 10px;
+    color: white;
+    line-height: 0x;
+}
+h2 {
+    font-family: 'comic sans mas';
+    font-style: 100px;
+    font-size: 30px;
+    margin-bottom: 10px;
+    color: yellowgreen;
+    line-height: 50px;
+}
+li{
+    font-family: 'comic sans mas';
+    font-style: 100;
+    font-size: 20px;
+    margin-bottom: 30px;
+    color:yellowgreen;
+    line-height: 10px;
+}
+body{
+    background-image: url(background.png);
+    "500" width="500">
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    height: 50%;
+}
+h3 {
+    font-family: 'comic sans mas';
+    font-style: 100px;
+    font-size: 30px;
+    margin-bottom: 30px;
+    color: white;
+    line-height: 10px;  }
+body center tr{
+color: white;
+    margin: 0px;
+    padding: 10px;
+    font-size:15px;
+    font-family:'Open Sans',sans-serif;}

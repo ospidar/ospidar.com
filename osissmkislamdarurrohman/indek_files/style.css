@@ -1,0 +1,126 @@
+* {
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    margin: 0px;
+    padding: 10px;
+    font-family:'Open Sans',sans-serif;
+}
+
+.wrapper {
+    width: 3000px;
+    margin: auto;
+    position: relative;
+}
+.logo a {
+    font-size: 40px;
+    font-weight: 1000;
+    float: left;
+    font-size: Courier;
+    color: rgb(0, 0, 0);
+}
+.menu{
+    float: right;
+}
+center {
+    width: 100%;
+    color: black;
+    font-family:bolder;
+    
+}
+nav  {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+nav ul li {
+    float: left;
+}
+nav ul li a {
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    padding: 0px 16px 0px 16px;
+    text-decoration: none;
+}
+nav ul li a:hover{
+    text-decoration: underline;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'comic sans ms';
+    color: black;
+}
+section {
+    margin: auto;
+    display: flex;
+    margin-bottom: 200px;
+}
+kolom {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.kolom .diskripsi {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'comic sans ms';
+    color: black;
+}
+h2 {
+    font-family: 'comic sans mas';
+    font-style: 100;
+    font-size: 30px;
+    margin-bottom: 10px;
+    color: black;
+    line-height: 40px;
+}
+h1{
+    font-family: 'comic sans mas';
+    font-style: 100;
+    font-size: 30px;
+    margin-bottom: 10px;
+    color: black;
+    line-height: 40px;
+}
+p1{
+    font-family: 'comic sans mas';
+    font-style: 100;
+    font-size: 50px;
+    margin-bottom: 30px;
+    color: black;
+    line-height: 80px;
+}
+marquee {
+    font-family: 'comic sans mas';
+    font-style: 100;
+    font-size: 80px;
+    margin-bottom: 30px;
+    color: rgb(0, 0, 0)
+    line-height: 90px;
+}
+li{
+    font-family: 'comic sans mas';
+    font-style: 100;
+    font-size: 20px;
+    margin-bottom: 30px;
+    color: rgb(255, 255, 255);
+    line-height: 10px;
+}
+body{
+    background-image: url(background.png);
+    "500" width="500">
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    height: 50%;
+}
+h3 {
+    font-family: 'comic sans mas';
+    font-style: 100;
+    font-size: 20px;
+    margin-bottom: 30px;
+    color: rgb(255, 255, 255);
+    line-height: 10px;  }
